@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Peter Møbler Lib/Peter Møbler Lib.csproj" />
+  <Project Path="PetersMoeblerApp/PetersMoeblerApp.csproj" Id="92cdb8f6-51d0-4ba8-9410-d8f8ff41f331" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="4df5474d-6cae-46a4-979f-2da38630a144" />
+</Solution>
